@@ -27,4 +27,4 @@ jobs:
           sparse-checkout: .
       - name: Log PR created executions
         run: |
-          bash test.sh "$FLAG_UBUCTF"
+          bash test.sh "$FLAG_UBUCTF" #bump

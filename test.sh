@@ -1,2 +1,2 @@
 echo "I do nothing :)"
-echo "$0"
+echo "$1"
